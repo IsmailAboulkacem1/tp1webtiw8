@@ -9,12 +9,12 @@
 
 | Technologie | Version     |
 |-------------|-------------|
-| Node.js     | v20.x (LTS) |
+| Node.js     | v23.8.0     |
 | Yarn        | v1.22.22    |
 | Express     | v5.1.0      |
 | TypeScript  | v5.8.3      |
 | Vite        | v6.3.5      |
-| React       | v18.x       |
+| React       | v19.1.0     |
 
 ---
 

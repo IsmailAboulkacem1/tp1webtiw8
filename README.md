@@ -73,15 +73,18 @@ cd tp1webtiw8
 
 ```bash
 cd server
+  ```
+```bash
 yarn install
-
-# En développement avec ts-node
-yarn dev
-
-# Ou version compilée
-yarn build     # génère dist/
+  ```
+```bash
 yarn start     # exécute dist/index.js
-```
+  ```
+# Ou version compilée*
+```bash
+yarn build     # génère dist/
+  ```
+
 
 ---
 
@@ -89,12 +92,16 @@ yarn start     # exécute dist/index.js
 
 ```bash
 cd ../client
+  ```
+```bash
 yarn install
-
+  ```
 # Développement avec hot-reload
+```bash
 yarn dev
-
+   ```
 # Production build
+```bash
 yarn build
 ```
 
